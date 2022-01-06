@@ -4,7 +4,8 @@
 
 # terminal emulator
 super + Return
-	konsole
+	kitty
+	#gnome-terminal	
 	#urxvt -e /usr/bin/fish
 
 # program launcher
