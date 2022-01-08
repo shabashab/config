@@ -20,7 +20,7 @@ bspc rule -a Screenkey manage=off
 
 # bspc rule -a albert:albert border=off
 
-/usr/bin/env ~/.config/polybar/launch.sh --forest &
+/usr/bin/env ~/.config/polybar/launch.sh &
 dunst &
 # mpd &
 feh --bg-center --bg-max ~/Pictures/background.jpg &
